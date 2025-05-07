@@ -31,15 +31,11 @@ This project demonstrates the use of Generative Adversarial Networks (GANs) for 
 
 | Training Losses | Best MNIST Sample | MNIST Interpolation |
 |-----------------|-------------------|----------------------|
-|![asdasdasdasd](https://github.com/user-attachments/assets/c146b096-6f81-49ac-9753-8a1dd7cea106)
- |  ![asdasdasdasda](https://github.com/user-attachments/assets/e44c0c72-e618-400e-b1a6-a2e8fcc27494)
-| ![asdasdasda](https://github.com/user-attachments/assets/f34e38b6-b2c9-43ad-963c-de3bf33567e7)|
+|![asdasdasdasd](https://github.com/user-attachments/assets/c146b096-6f81-49ac-9753-8a1dd7cea106)| ![asdasdasdasda](https://github.com/user-attachments/assets/e44c0c72-e618-400e-b1a6-a2e8fcc27494)|![asdasdasda](https://github.com/user-attachments/assets/f34e38b6-b2c9-43ad-963c-de3bf33567e7)|
 
 | CelebA Interpolation | Arithmetic A + B | Arithmetic E - F + G |
 |----------------------|------------------|------------------------|
-| ![asdsad](https://github.com/user-attachments/assets/b20ea0de-87be-41e5-a3a9-8c0480d9978c)
- | ![output](https://github.com/user-attachments/assets/b1c903da-52d7-49de-8946-f1d28f8d8404)
- | ![asd](https://github.com/user-attachments/assets/d78de854-fb01-41dc-9a7a-14727392d574)|
+| ![asdsad](https://github.com/user-attachments/assets/b20ea0de-87be-41e5-a3a9-8c0480d9978c)| ![output](https://github.com/user-attachments/assets/b1c903da-52d7-49de-8946-f1d28f8d8404)| ![asd](https://github.com/user-attachments/assets/d78de854-fb01-41dc-9a7a-14727392d574)|
 
 ## 🧠 Key Concepts
 
