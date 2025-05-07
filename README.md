@@ -20,17 +20,6 @@ This project demonstrates the use of Generative Adversarial Networks (GANs) for 
 - **Latent Vector Arithmetic**
   - Demonstrates how adding and subtracting vectors in the latent space can manipulate image features (e.g., smiling + glasses).
 
-## 📁 Files
-
-- `generator.pth` and `discriminator.pth`: Saved models for MNIST.
-- `dcgan.py`: Class to interface with the pre-trained CelebA GAN.
-- `generator.pt`: Pre-trained CelebA generator weights.
-- Multiple `.png` files: Generated visual outputs including:
-  - Training losses
-  - Best generator sample
-  - Latent space interpolations (MNIST and CelebA)
-  - Vector arithmetic examples
-
 ## 📊 Results
 
 - Generator loss converged to a stable minimum after ~50 epochs.
@@ -42,11 +31,15 @@ This project demonstrates the use of Generative Adversarial Networks (GANs) for 
 
 | Training Losses | Best MNIST Sample | MNIST Interpolation |
 |-----------------|-------------------|----------------------|
-| ![Training Losses](./6926ac6b-f7e9-4400-9180-83507608b459.png) | ![Best MNIST Sample](./2f64cdc2-24f4-44f2-bca1-ceb0615dcc23.png) | ![MNIST Interpolation](./5109b5d2-58ef-4d29-aa3c-bed93fa77af1.png) |
+|![asdasdasdasd](https://github.com/user-attachments/assets/c146b096-6f81-49ac-9753-8a1dd7cea106)
+ |  ![asdasdasdasda](https://github.com/user-attachments/assets/e44c0c72-e618-400e-b1a6-a2e8fcc27494)
+| ![asdasdasda](https://github.com/user-attachments/assets/f34e38b6-b2c9-43ad-963c-de3bf33567e7)|
 
 | CelebA Interpolation | Arithmetic A + B | Arithmetic E - F + G |
 |----------------------|------------------|------------------------|
-| ![CelebA Interpolation](./fc6a6a80-ef89-44ff-a37f-4616712f0d5d.png) | ![A + B](./32e57a79-e4a1-4693-9c48-627e274027c5.png) | ![E - F + G](./9e7ae81d-6a86-45eb-bf08-86806183363d.png) |
+| ![asdsad](https://github.com/user-attachments/assets/b20ea0de-87be-41e5-a3a9-8c0480d9978c)
+ | ![output](https://github.com/user-attachments/assets/b1c903da-52d7-49de-8946-f1d28f8d8404)
+ | ![asd](https://github.com/user-attachments/assets/d78de854-fb01-41dc-9a7a-14727392d574)|
 
 ## 🧠 Key Concepts
 
